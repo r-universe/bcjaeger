@@ -1,5 +1,9 @@
 [
   {
+    "package": "aorsf",
+    "oncran": true
+  },
+  {
     "package": "PooledCohort",
     "oncran": true
   },
