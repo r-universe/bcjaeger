@@ -1,6 +1,6 @@
 [
   {
-    "package": "table.glue",
+    "package": "PooledCohort",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "PooledCohort",
+    "package": "table.glue",
     "oncran": true
   }
 ]
