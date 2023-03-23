@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "obliqueRSF"]
+	path = obliqueRSF
+	url = https://github.com/cran/obliqueRSF
+	shallow = true
+	registered = true
 [submodule "PooledCohort"]
 	path = PooledCohort
 	url = https://github.com/bcjaeger/pooledcohort
